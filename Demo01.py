@@ -6,4 +6,3 @@
 
 
 print('Hello world')
-print(1231231321241241)
